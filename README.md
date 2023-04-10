@@ -7,6 +7,7 @@ AUTHOR:
 Reagan Okhanga Wesebebe
 email: rokhanga@gmail.com
 GitHub: https://github.com/Wesebebe/WeatherApp
+Link to live site: https://6433ea39bb0fc901fd037053--storied-moxie-1eb933.netlify.app/
 
 
 
