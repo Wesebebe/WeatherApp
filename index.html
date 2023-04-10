@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Weather Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Weather App</h1>
+    <p>Type the name of your favourite city and <span style>press</span> enter to get the current weather.</p>
+    <form id="form">
+        <input type="text" id="search" placeholder="City" autocomplete>
+    </form>
+    <main id="main">
+  
+
+    </main>
+    <h3>Click to swap images</h3>
+    <input type="button" onclick="swapImages()" value = "Swap Image">
+<br>
+    <img src = "./images/img1.jpg" id = "getImage" >
+
+    <script src="index.js">
+            /*function swapImages(){
+    var get = document.getElementById('getImage');
+    if (get.src.match("./images/img1.jpg")){
+    get.src = "./images/img3.jpg";
+    }
+    else{
+    get.src = "./images/img4.jpg";
+    }
+    }*/
+    </script>
+</body>
+</html>
