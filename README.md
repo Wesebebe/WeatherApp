@@ -6,6 +6,7 @@ Weather Application
 AUTHOR:
 Reagan Okhanga Wesebebe
 email: rokhanga@gmail.com
+GitHub: https://github.com/Wesebebe/WeatherApp
 
 
 
